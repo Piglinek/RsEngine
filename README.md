@@ -8,7 +8,7 @@ and game content, allowing rapid iteration and long-term maintainability.
 
 ## Goals
 - SDK-first architecture
-- Stable DirectX 11 rendering backend
+- Stable OpenGL 4.6 rendering backend
 - Data- and physics-driven runtime
 - Clear separation: engine vs content
 
