@@ -15,7 +15,7 @@ and game content, allowing rapid iteration and long-term maintainability.
 ## Non-goals (for now)
 - Networking
 - Integrated C# scripting
-- Vulkan backend (DX11-first for simplicity and Linux compatibility later)
+- Vulkan backend (OpenGL for simplicity and Linux compatibility later)
 
 ## Current Status
 🧪 Early development — not production ready
